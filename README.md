@@ -20,10 +20,10 @@ None.
 * CSS - For styling the user interface
 * Javascript - For document object manipulation
 * Bootstrap - For styling the interface
-* jQuery - To easen use of JavaScript on your website
+* jQuery - To easen use of JavaScript on my website
 ## Live site
 
 ## Support and contact details
-You can get to me through muthonim62@gmail.com.com.
+You can get to me through muthonim62@gmail.com
 ### License.
 MIT Copyright (c) 2021 **[MITlicense](LICENSE)**
