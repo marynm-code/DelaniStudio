@@ -11,7 +11,7 @@ This is a web application that modifies and styles a fictional studio
 * visit www.Github.com
 *signup with your credentials
 * clone the repository from Github
-* git clone ogigin
+* git clone origin
 * Open the link from where the repository is saved by typing code . for visual code ot atom . for atom users
 ## Known Bugs
 None.
@@ -22,6 +22,7 @@ None.
 * Bootstrap - For styling the interface
 * jQuery - To easen use of JavaScript on my website
 ## Live site
+https://marynm-code.github.io/Delanistudio/
 
 ## Support and contact details
 You can get to me through muthonim62@gmail.com
